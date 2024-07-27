@@ -135,4 +135,4 @@ OpenAI offers something similar with their dimensions parameter: https://platfor
 
 ---
 
-Thanks for reading! Questions? Comments? Feel free to [open an issue here](https://github.com/neurofleet/blog/issues/new) or visit the OpenAI community forums [https://community.openai.com/](https://community.openai.com/) :)
+Thanks for reading! Questions? Comments? Feel free to [open an issue here](https://github.com/neurofleet/blog/issues/new) or visit the OpenAI community forums [https://community.openai.com/](https://community.openai.com/) and ask your questions there. Or both! It's a free country. :)
