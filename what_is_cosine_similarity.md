@@ -121,11 +121,12 @@ output:
 Congratulations! You've just implemented the Pinecone/Milvus/Weaviate/Chroma/Faiss/etc, FLAT index. 
 
 And you can even run it directly in your front end!
-<ins>⚠️*Warning! Do not call OpenAI/Anthropic/Huggingface/Voyage/Vertex/etc APIs directly from your front end. You will need a proxy - otherwise your API keys WILL get stolen!</ins>
+
+<sup><ins>⚠️*Warning!</ins> Do <ins>NOT</ins> call OpenAI/Anthropic/Huggingface/Voyage/Vertex/etc APIs directly from your front end. You need a proxy - otherwise your API keys <ins>WILL</ins> get stolen!</sup>
 
 ## Operational advice:
 
-If you have less than 1000 elements per corpus, you might be able to get away with simply *not* using a vector database. Just a naive for loop, iterating over each element might be super good enough for your MVP.
+If you have less than 1000 elements per corpus, you might be able to get away with simply *not* using a vector database. Just a naive for loop, iterating over each element might be super good enough for your MVP. This can potentially save you a ton of integration and operations work.
 
 Some embedding models have more dimensions, some have fewer. More dimensions, more compute cost (although sometimes also more accuracy). 
 
