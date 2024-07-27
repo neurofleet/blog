@@ -8,7 +8,7 @@
 
 What does that mean? 
 
-When you extract an embedding from your text, image, sound, smell, thought, or whatever, you get a vector. 
+When you extract an embedding from your text, image, sound, smell, thought, or whatever, you get a high-dimensional vector. The embedding vector.
 
 e.g.:
 
