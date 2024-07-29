@@ -1,4 +1,4 @@
-# neurofleet blog
+# [neurofleet](neurofleet.com) blog
 
 ## [What's "Cosine Similarity" anyways?](what_is_cosine_similarity.md)
 
